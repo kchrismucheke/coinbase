@@ -23,6 +23,6 @@ erl_crash.dump
 coinbase-*.tar
 
 /.build
-/.elixir_ls
+/.elixir_ls/
 
 
